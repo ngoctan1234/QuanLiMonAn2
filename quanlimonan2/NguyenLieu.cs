@@ -8,5 +8,6 @@ namespace quanlimonan2
 {
     internal class NguyenLieu
     {
+        //VD
     }
 }
